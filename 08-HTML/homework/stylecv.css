@@ -1,0 +1,10 @@
+*{
+    background-color: rgb(153, 204, 238);
+    ;
+   
+}
+h3{
+    display: flex;
+    text-align: center;
+margin-left: 50px;
+}
